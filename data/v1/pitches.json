@@ -1,0 +1,283 @@
+{
+  "pitches": [
+    {
+      "id": 0,
+      "authorId": "",
+      "folioId": 0,
+      "opens": "1922-01-03T00:00:00.000Z",
+      "closes": "1922-01-04T00:00:00.000Z",
+      "name": "",
+      "description": ""
+    },
+    {
+      "name": "@Oscar2025",
+      "description": "@Oscar2025",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 1,
+      "opens": "2025-02-19T20:27:21.212Z",
+      "closes": "2025-03-19T19:27:21.212Z",
+      "id": 1
+    },
+    {
+      "name": "Best Picture",
+      "description": "Best Picture",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 2,
+      "opens": "2025-02-19T20:27:21.239Z",
+      "closes": "2025-03-19T19:27:21.239Z",
+      "id": 2
+    },
+    {
+      "name": "Best Director",
+      "description": "Best Director",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 3,
+      "opens": "2025-02-19T20:27:21.257Z",
+      "closes": "2025-03-19T19:27:21.257Z",
+      "id": 3
+    },
+    {
+      "name": "Best Actress",
+      "description": "Best Actress",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 4,
+      "opens": "2025-02-19T20:27:21.277Z",
+      "closes": "2025-03-19T19:27:21.277Z",
+      "id": 4
+    },
+    {
+      "name": "Best Actor",
+      "description": "Best Actor",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 5,
+      "opens": "2025-02-19T20:27:21.298Z",
+      "closes": "2025-03-19T19:27:21.298Z",
+      "id": 5
+    },
+    {
+      "name": "Original Screenplay",
+      "description": "Original Screenplay",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 6,
+      "opens": "2025-02-19T20:27:21.317Z",
+      "closes": "2025-03-19T19:27:21.317Z",
+      "id": 6
+    },
+    {
+      "name": "Adapted Screenplay",
+      "description": "Adapted Screenplay",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 7,
+      "opens": "2025-02-19T20:27:21.335Z",
+      "closes": "2025-03-19T19:27:21.335Z",
+      "id": 7
+    },
+    {
+      "name": "International Feature",
+      "description": "International Feature",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 8,
+      "opens": "2025-02-19T20:27:21.356Z",
+      "closes": "2025-03-19T19:27:21.356Z",
+      "id": 8
+    },
+    {
+      "name": "Original Score",
+      "description": "Original Score",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 9,
+      "opens": "2025-02-19T20:27:21.374Z",
+      "closes": "2025-03-19T19:27:21.374Z",
+      "id": 9
+    },
+    {
+      "name": "Original Song",
+      "description": "Original Song",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 10,
+      "opens": "2025-02-19T20:27:21.395Z",
+      "closes": "2025-03-19T19:27:21.395Z",
+      "id": 10
+    },
+    {
+      "name": "Costume Design",
+      "description": "Costume Design",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 11,
+      "opens": "2025-02-19T20:27:21.414Z",
+      "closes": "2025-03-19T19:27:21.414Z",
+      "id": 11
+    },
+    {
+      "name": "Documentary Feature",
+      "description": "Documentary Feature",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 12,
+      "opens": "2025-02-19T20:27:21.432Z",
+      "closes": "2025-03-19T19:27:21.432Z",
+      "id": 12
+    },
+    {
+      "name": "Animated Feature",
+      "description": "Animated Feature",
+      "authorId": "oscars---oscars---oscars",
+      "folioId": 13,
+      "opens": "2025-02-19T20:27:21.451Z",
+      "closes": "2025-03-19T19:27:21.451Z",
+      "id": 13
+    },
+    {
+      "name": "@Grammy2025",
+      "description": "@Grammy2025",
+      "authorId": "grammy---grammy---grammy",
+      "folioId": 14,
+      "opens": "2025-02-19T20:27:22.221Z",
+      "closes": "2025-03-19T19:27:22.221Z",
+      "id": 14
+    },
+    {
+      "name": "Album of the Year",
+      "description": "Album of the Year",
+      "authorId": "grammy---grammy---grammy",
+      "folioId": 15,
+      "opens": "2025-02-19T20:27:22.240Z",
+      "closes": "2025-03-19T19:27:22.240Z",
+      "id": 15
+    },
+    {
+      "name": "New Artist",
+      "description": "New Artist",
+      "authorId": "grammy---grammy---grammy",
+      "folioId": 16,
+      "opens": "2025-02-19T20:27:22.263Z",
+      "closes": "2025-03-19T19:27:22.263Z",
+      "id": 16
+    },
+    {
+      "name": "Song of the Year",
+      "description": "Song of the Year",
+      "authorId": "grammy---grammy---grammy",
+      "folioId": 17,
+      "opens": "2025-02-19T20:27:22.282Z",
+      "closes": "2025-03-19T19:27:22.282Z",
+      "id": 17
+    },
+    {
+      "name": "Record of the Year",
+      "description": "Record of the Year",
+      "authorId": "grammy---grammy---grammy",
+      "folioId": 18,
+      "opens": "2025-02-19T20:27:22.303Z",
+      "closes": "2025-03-19T19:27:22.303Z",
+      "id": 18
+    },
+    {
+      "name": "@EuroVision",
+      "description": "@EuroVision",
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "folioId": 19,
+      "opens": "2025-02-19T20:27:22.987Z",
+      "closes": "2025-03-19T19:27:22.987Z",
+      "id": 19
+    },
+    {
+      "name": "EuroVision 2024",
+      "description": "EuroVision 2024",
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "folioId": 20,
+      "opens": "2025-02-19T20:27:23.006Z",
+      "closes": "2025-03-19T19:27:23.006Z",
+      "id": 20
+    },
+    {
+      "name": "@MiniHerald",
+      "description": "@MiniHerald",
+      "authorId": "mh7---mh7---mh7---mh7",
+      "folioId": 21,
+      "opens": "2025-02-19T20:27:23.685Z",
+      "closes": "2025-03-19T19:27:23.685Z",
+      "id": 21
+    },
+    {
+      "name": "Tony Best Play 2024",
+      "description": "Tony Best Play 2024",
+      "authorId": "mh7---mh7---mh7---mh7",
+      "folioId": 22,
+      "opens": "2025-02-19T20:27:23.705Z",
+      "closes": "2025-03-19T19:27:23.705Z",
+      "id": 22
+    },
+    {
+      "name": "Tony Best Musical 2024",
+      "description": "Tony Best Musical 2024",
+      "authorId": "mh7---mh7---mh7---mh7",
+      "folioId": 23,
+      "opens": "2025-02-19T20:27:23.724Z",
+      "closes": "2025-03-19T19:27:23.724Z",
+      "id": 23
+    },
+    {
+      "name": "Corey Bradford",
+      "description": "Corey Bradford",
+      "authorId": "mh7---mh7---mh7---mh7",
+      "folioId": 24,
+      "opens": "2025-02-19T20:27:23.745Z",
+      "closes": "2025-03-19T19:27:23.745Z",
+      "id": 24
+    },
+    {
+      "name": "Ladder Singles",
+      "description": "Ladder Singles",
+      "authorId": "mh7---mh7---mh7---mh7",
+      "folioId": 25,
+      "opens": "2025-02-19T20:27:23.765Z",
+      "closes": "2025-03-19T19:27:23.765Z",
+      "id": 25
+    },
+    {
+      "name": "@Politics",
+      "description": "@Politics",
+      "authorId": "politics---politics---politics",
+      "folioId": 26,
+      "opens": "2025-02-19T20:27:24.459Z",
+      "closes": "2025-03-19T19:27:24.459Z",
+      "id": 26
+    },
+    {
+      "name": "DNC Chair 2025",
+      "description": "DNC Chair 2025",
+      "authorId": "politics---politics---politics",
+      "folioId": 27,
+      "opens": "2025-02-19T20:27:24.481Z",
+      "closes": "2025-03-19T19:27:24.481Z",
+      "id": 27
+    },
+    {
+      "name": "NYC Mayor 2025",
+      "description": "NYC Mayor 2025",
+      "authorId": "politics---politics---politics",
+      "folioId": 28,
+      "opens": "2025-02-19T20:27:24.503Z",
+      "closes": "2025-03-19T19:27:24.503Z",
+      "id": 28
+    },
+    {
+      "name": "AimsPoll Priorities",
+      "description": "AimsPoll Priorities",
+      "authorId": "politics---politics---politics",
+      "folioId": 29,
+      "opens": "2025-02-19T20:27:24.523Z",
+      "closes": "2025-03-19T19:27:24.523Z",
+      "id": 29
+    },
+    {
+      "name": "@Craig",
+      "description": "@Craig",
+      "authorId": "0194e312-d5c3-7ae3-b133-7c13e373076e",
+      "folioId": 30,
+      "opens": "2025-02-19T20:27:24.739Z",
+      "closes": "2025-03-19T19:27:24.739Z",
+      "id": 30
+    }
+  ]
+}

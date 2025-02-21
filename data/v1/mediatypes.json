@@ -1,0 +1,15 @@
+{
+  "mediaTypes": [
+    "YouTube",
+    "YouTubeShort",
+    "Tiktok",
+    "Instagram",
+    "Twitter",
+    "TextInput",
+    "TextCaption",
+    "Pitch",
+    "JpgInternal",
+    "AuthorChannel",
+    "Advertisement"
+  ]
+}

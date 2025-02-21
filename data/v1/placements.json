@@ -1,0 +1,1782 @@
+{
+  "placements": [
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 2,
+      "folioId": 1,
+      "caption": "Best Picture",
+      "id": 1
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 3,
+      "folioId": 2,
+      "caption": "Anora",
+      "id": 2
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 4,
+      "folioId": 2,
+      "caption": "The Brutalist",
+      "id": 3
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 5,
+      "folioId": 2,
+      "caption": "A Complete Unknown",
+      "id": 4
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 6,
+      "folioId": 2,
+      "caption": "Conclave",
+      "id": 5
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 7,
+      "folioId": 2,
+      "caption": "Dune: Part Two",
+      "id": 6
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 8,
+      "folioId": 2,
+      "caption": "Emilia Pérez",
+      "id": 7
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 9,
+      "folioId": 2,
+      "caption": "I’m Still Here",
+      "id": 8
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 10,
+      "folioId": 2,
+      "caption": "Nickel Boys",
+      "id": 9
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 11,
+      "folioId": 2,
+      "caption": "The Substance",
+      "id": 10
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 12,
+      "folioId": 2,
+      "caption": "Wicked",
+      "id": 11
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 13,
+      "folioId": 1,
+      "caption": "Best Director",
+      "id": 12
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 14,
+      "folioId": 3,
+      "caption": "Sean Baker - Anora",
+      "id": 13
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 15,
+      "folioId": 3,
+      "caption": "Brady Corbet - The Brutalist",
+      "id": 14
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 16,
+      "folioId": 3,
+      "caption": "James Mangold - A Complete Unknown",
+      "id": 15
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 17,
+      "folioId": 3,
+      "caption": "Jacques Audiard - Emilia Pérez",
+      "id": 16
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 18,
+      "folioId": 3,
+      "caption": "Coralie Fargeat - The Substance",
+      "id": 17
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 19,
+      "folioId": 1,
+      "caption": "Best Actress",
+      "id": 18
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 20,
+      "folioId": 4,
+      "caption": "Cynthia Erivo - Wicked",
+      "id": 19
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 21,
+      "folioId": 4,
+      "caption": "Karla Sofia Gascón - Emilia Pérez",
+      "id": 20
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 22,
+      "folioId": 4,
+      "caption": "Mikey Madison - Anora",
+      "id": 21
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 23,
+      "folioId": 4,
+      "caption": "Demi Moore - The Substance",
+      "id": 22
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 24,
+      "folioId": 4,
+      "caption": "Fernanda Torres - I’m Still Here",
+      "id": 23
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 25,
+      "folioId": 1,
+      "caption": "Best Actor",
+      "id": 24
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 26,
+      "folioId": 5,
+      "caption": "Adrian Brody - The Brutalist",
+      "id": 25
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 27,
+      "folioId": 5,
+      "caption": "Timothée Chalamet - A Complete Unknown",
+      "id": 26
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 28,
+      "folioId": 5,
+      "caption": "Colman Domingo - Sing Sing",
+      "id": 27
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 29,
+      "folioId": 5,
+      "caption": "Ralph Fiennes - Conclave",
+      "id": 28
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 30,
+      "folioId": 5,
+      "caption": "Sebastian Stan - The Apprentice",
+      "id": 29
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 31,
+      "folioId": 1,
+      "caption": "Original Screenplay",
+      "id": 30
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 32,
+      "folioId": 6,
+      "caption": "Anora - Sean Baker",
+      "id": 31
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 33,
+      "folioId": 6,
+      "caption": "The Brutalist - Brady Corbet & Mona Fastvold",
+      "id": 32
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 34,
+      "folioId": 6,
+      "caption": "A Real Pain - Jesse Eisenberg",
+      "id": 33
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 35,
+      "folioId": 6,
+      "caption": "September 5 - Tim Fehlbaum & Moritz Binder",
+      "id": 34
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 36,
+      "folioId": 6,
+      "caption": "The Substance - Coralie Fargeat",
+      "id": 35
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 37,
+      "folioId": 1,
+      "caption": "Adapted Screenplay",
+      "id": 36
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 38,
+      "folioId": 7,
+      "caption": "A Complete Unknown - Jay Cocks & James Mangold",
+      "id": 37
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 39,
+      "folioId": 7,
+      "caption": "Conclave - Peter Straughan",
+      "id": 38
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 40,
+      "folioId": 7,
+      "caption": "Emilia Pérez - Jacques Audiard - Thomas Bidegain & Nicolas Livecchi",
+      "id": 39
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 41,
+      "folioId": 7,
+      "caption": "Nickel Boys - RaMell Ross & Joslyn Barnes",
+      "id": 40
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 42,
+      "folioId": 7,
+      "caption": "Sing Sing - Clint Bentley - Greg Kwedar - Clarence Maclin & John Divine G Whitfield",
+      "id": 41
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 43,
+      "folioId": 1,
+      "caption": "International Feature",
+      "id": 42
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 44,
+      "folioId": 8,
+      "caption": "I’m Still Here - Walter Salles (Brazil)",
+      "id": 43
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 45,
+      "folioId": 8,
+      "caption": "The Girl with the Needle - Magnus von Horn (Denmark)",
+      "id": 44
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 46,
+      "folioId": 8,
+      "caption": "Emilia Pérez - Jacques Audiard (France)",
+      "id": 45
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 47,
+      "folioId": 8,
+      "caption": "The Seed of the Sacred Fig - Mohammad Rasoulof (Germany)",
+      "id": 46
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 48,
+      "folioId": 8,
+      "caption": "Flow - Miguel Gomes (Latvia)",
+      "id": 47
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 49,
+      "folioId": 1,
+      "caption": "Original Score",
+      "id": 48
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 50,
+      "folioId": 9,
+      "caption": "The Brutalist - Daniel Blumberg",
+      "id": 49
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 51,
+      "folioId": 9,
+      "caption": "Conclave - Volker Bertelmann",
+      "id": 50
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 52,
+      "folioId": 9,
+      "caption": "Emilia Pérez - Clément Ducol & Camille",
+      "id": 51
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 53,
+      "folioId": 9,
+      "caption": "Wicked - John Powell & Stephen Schwartz",
+      "id": 52
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 54,
+      "folioId": 9,
+      "caption": "The Wild Robot - Kris Bowers",
+      "id": 53
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 55,
+      "folioId": 1,
+      "caption": "Original Song",
+      "id": 54
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 56,
+      "folioId": 10,
+      "caption": "Never Too Late - Elton John: Never Too Late (Elton John & Brandi Carlile)",
+      "id": 55
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 57,
+      "folioId": 10,
+      "caption": "El Mal - Emilia Pérez (Clement Ducol - Camille & Jacques Audiard)",
+      "id": 56
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 58,
+      "folioId": 10,
+      "caption": "Mi Camino - Emilia Pérez (Clement Ducol & Camille)",
+      "id": 57
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 59,
+      "folioId": 10,
+      "caption": "Like a Bird - Sing Sing (Adrian Quesada & Abraham Alexander)",
+      "id": 58
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 60,
+      "folioId": 10,
+      "caption": "The Journey - The Six Triple Eight (Diane Warren)",
+      "id": 59
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 61,
+      "folioId": 1,
+      "caption": "Costume Design",
+      "id": 60
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 62,
+      "folioId": 11,
+      "caption": "A Complete Unknown - Arianne Phillips",
+      "id": 61
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 63,
+      "folioId": 11,
+      "caption": "Conclave - Lisy Christl",
+      "id": 62
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 64,
+      "folioId": 11,
+      "caption": "Gladiator II - Janty Yates",
+      "id": 63
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 65,
+      "folioId": 11,
+      "caption": "Nosferatu - Linda Muir",
+      "id": 64
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 66,
+      "folioId": 11,
+      "caption": "Wicked - Paul Tazewell",
+      "id": 65
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 67,
+      "folioId": 1,
+      "caption": "Documentary Feature",
+      "id": 66
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 68,
+      "folioId": 12,
+      "caption": "Black Box Diaries - Shiori Itō (MTV)",
+      "id": 67
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 69,
+      "folioId": 12,
+      "caption": "No Other Land - Basel Adra - Hamdan Ballal - Yuval Abraham & Rachel Szor (No distributor)",
+      "id": 68
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 70,
+      "folioId": 12,
+      "caption": "Porcelain War - Brendan Bellomo & Slava Leontyev (Picturehouse)",
+      "id": 69
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 71,
+      "folioId": 12,
+      "caption": "Soundtrack to a Coup d’Etat - Johan Grimonprez (Kino Lorber)",
+      "id": 70
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 72,
+      "folioId": 12,
+      "caption": "Sugarcane - Julian Brave NoiseCat & Emily Kassie (Nat Geo)",
+      "id": 71
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 73,
+      "folioId": 1,
+      "caption": "Animated Feature",
+      "id": 72
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 74,
+      "folioId": 13,
+      "caption": "Flow (Janus Films/Sideshow)",
+      "id": 73
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 75,
+      "folioId": 13,
+      "caption": "Inside Out 2 (Disney/Pixar)",
+      "id": 74
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 76,
+      "folioId": 13,
+      "caption": "Memoir of a Snail (IFC Films)",
+      "id": 75
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 77,
+      "folioId": 13,
+      "caption": "Wallace & Gromit: Vengeance Most Fowl (Aardman/Netflix)",
+      "id": 76
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "assetId": 78,
+      "folioId": 13,
+      "caption": "The Wild Robot (Dreamworks/Universal)",
+      "id": 77
+    },
+    {
+      "authorId": "0",
+      "assetId": 79,
+      "caption": "@Oscar2025",
+      "id": 78,
+      "folioId": 0
+    },
+    {
+      "authorId": "0",
+      "assetId": 80,
+      "folioId": 1,
+      "caption": "Best Picture",
+      "id": 79
+    },
+    {
+      "authorId": "0",
+      "assetId": 81,
+      "folioId": 1,
+      "caption": "Best Director",
+      "id": 80
+    },
+    {
+      "authorId": "0",
+      "assetId": 82,
+      "folioId": 1,
+      "caption": "Best Actress",
+      "id": 81
+    },
+    {
+      "authorId": "0",
+      "assetId": 83,
+      "folioId": 1,
+      "caption": "Best Actor",
+      "id": 82
+    },
+    {
+      "authorId": "0",
+      "assetId": 84,
+      "folioId": 1,
+      "caption": "Original Screenplay",
+      "id": 83
+    },
+    {
+      "authorId": "0",
+      "assetId": 85,
+      "folioId": 1,
+      "caption": "Adapted Screenplay",
+      "id": 84
+    },
+    {
+      "authorId": "0",
+      "assetId": 86,
+      "folioId": 1,
+      "caption": "International Feature",
+      "id": 85
+    },
+    {
+      "authorId": "0",
+      "assetId": 87,
+      "folioId": 1,
+      "caption": "Original Score",
+      "id": 86
+    },
+    {
+      "authorId": "0",
+      "assetId": 88,
+      "folioId": 1,
+      "caption": "Original Song",
+      "id": 87
+    },
+    {
+      "authorId": "0",
+      "assetId": 89,
+      "folioId": 1,
+      "caption": "Costume Design",
+      "id": 88
+    },
+    {
+      "authorId": "0",
+      "assetId": 90,
+      "folioId": 1,
+      "caption": "Documentary Feature",
+      "id": 89
+    },
+    {
+      "authorId": "0",
+      "assetId": 91,
+      "folioId": 1,
+      "caption": "Animated Feature",
+      "id": 90
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 92,
+      "folioId": 14,
+      "caption": "Album of the Year",
+      "id": 91
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 93,
+      "folioId": 15,
+      "caption": "New Blue Sun -  André 3000",
+      "id": 92
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 94,
+      "folioId": 15,
+      "caption": "Cowboy Carter - Beyoncé",
+      "id": 93
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 95,
+      "folioId": 15,
+      "caption": "Short n’ Sweet - Sabrina Carpenter",
+      "id": 94
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 96,
+      "folioId": 15,
+      "caption": "Brat - Charli XCX",
+      "id": 95
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 97,
+      "folioId": 15,
+      "caption": "Djesse Vol. 4 - Jacob Collier",
+      "id": 96
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 98,
+      "folioId": 15,
+      "caption": "Hit Me Hard and Soft - Billie Eilish",
+      "id": 97
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 99,
+      "folioId": 15,
+      "caption": "The Rise and Fall of a Midwest Princess - Chappell Roan",
+      "id": 98
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 100,
+      "folioId": 15,
+      "caption": "The Tortured Poets Department - Taylor Swift",
+      "id": 99
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 101,
+      "folioId": 14,
+      "caption": "New Artist",
+      "id": 100
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 102,
+      "folioId": 16,
+      "caption": "Benson Boone",
+      "id": 101
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 103,
+      "folioId": 16,
+      "caption": "Sabrina Carpenter",
+      "id": 102
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 104,
+      "folioId": 16,
+      "caption": "Doechii",
+      "id": 103
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 105,
+      "folioId": 16,
+      "caption": "Khruangbin",
+      "id": 104
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 106,
+      "folioId": 16,
+      "caption": "Chappell Roan",
+      "id": 105
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 107,
+      "folioId": 16,
+      "caption": "Shaboozey",
+      "id": 106
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 108,
+      "folioId": 16,
+      "caption": "Teddy Swims",
+      "id": 107
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 109,
+      "folioId": 14,
+      "caption": "Song of the Year",
+      "id": 108
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 110,
+      "folioId": 17,
+      "caption": "A Bar Song (Tipsy)",
+      "id": 109
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 111,
+      "folioId": 17,
+      "caption": "Birds of a Feather",
+      "id": 110
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 112,
+      "folioId": 17,
+      "caption": "Die With a Smile",
+      "id": 111
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 113,
+      "folioId": 17,
+      "caption": "Fortnight",
+      "id": 112
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 114,
+      "folioId": 17,
+      "caption": "Good Luck, Babe!",
+      "id": 113
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 115,
+      "folioId": 17,
+      "caption": "Not Like Us",
+      "id": 114
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 116,
+      "folioId": 17,
+      "caption": "Please Please Please",
+      "id": 115
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 117,
+      "folioId": 17,
+      "caption": "Texas Hold ‘Em",
+      "id": 116
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 118,
+      "folioId": 14,
+      "caption": "Record of the Year",
+      "id": 117
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 119,
+      "folioId": 18,
+      "caption": "Now and Then - The Beatles",
+      "id": 118
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 120,
+      "folioId": 18,
+      "caption": "Texas Hold ‘Em - Beyoncé",
+      "id": 119
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 121,
+      "folioId": 18,
+      "caption": "Espresso - Sabrina Carpenter",
+      "id": 120
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 122,
+      "folioId": 18,
+      "caption": "360 - Charli XCX",
+      "id": 121
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 123,
+      "folioId": 18,
+      "caption": "Birds of a Feather - Billie Eilish",
+      "id": 122
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 124,
+      "folioId": 18,
+      "caption": "Not Like Us - Kendrick Lamar",
+      "id": 123
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 125,
+      "folioId": 18,
+      "caption": "Good Luck, Babe! - Chappell Roan",
+      "id": 124
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "assetId": 126,
+      "folioId": 18,
+      "caption": "Fortnight - Taylor Swift Featuring Post Malone",
+      "id": 125
+    },
+    {
+      "authorId": "0",
+      "assetId": 127,
+      "caption": "@Grammy2025",
+      "id": 126,
+      "folioId": 0
+    },
+    {
+      "authorId": "0",
+      "assetId": 128,
+      "folioId": 14,
+      "caption": "Album of the Year",
+      "id": 127
+    },
+    {
+      "authorId": "0",
+      "assetId": 129,
+      "folioId": 14,
+      "caption": "New Artist",
+      "id": 128
+    },
+    {
+      "authorId": "0",
+      "assetId": 130,
+      "folioId": 14,
+      "caption": "Song of the Year",
+      "id": 129
+    },
+    {
+      "authorId": "0",
+      "assetId": 131,
+      "folioId": 14,
+      "caption": "Record of the Year",
+      "id": 130
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 132,
+      "folioId": 19,
+      "caption": "EuroVision 2024",
+      "id": 131
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 133,
+      "folioId": 20,
+      "caption": "Albania: BESA - TITAN",
+      "id": 132
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 134,
+      "folioId": 20,
+      "caption": "Armenia: LADANIVA - Jako",
+      "id": 133
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 135,
+      "folioId": 20,
+      "caption": "Australia: Electric Fields - One Milkali (One Blood)",
+      "id": 134
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 136,
+      "folioId": 20,
+      "caption": "Austria: Kaleen - We Will Rave",
+      "id": 135
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 137,
+      "folioId": 20,
+      "caption": "Azerbaijan: FAHREE feat. Ilkin Dovlatov - Özünlə Apar",
+      "id": 136
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 138,
+      "folioId": 20,
+      "caption": "Belgium: Mustii - Before the Party’s Over",
+      "id": 137
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 139,
+      "folioId": 20,
+      "caption": "Croatia: Baby Lasagna - Rim Tim Tagi Dim",
+      "id": 138
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 140,
+      "folioId": 20,
+      "caption": "Cyprus: Silia Kapsis - Liar",
+      "id": 139
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 141,
+      "folioId": 20,
+      "caption": "Czechia: Aiko - Pedestal",
+      "id": 140
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 142,
+      "folioId": 20,
+      "caption": "Denmark: SABA - SAND",
+      "id": 141
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 143,
+      "folioId": 20,
+      "caption": "Estonia Official Video : 5MIINUST - Puuluup",
+      "id": 142
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 144,
+      "folioId": 20,
+      "caption": "Finland: Windows95man - No Rules! (Rules Applied Version)",
+      "id": 143
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 145,
+      "folioId": 20,
+      "caption": "France: Slimane - Mon Amour",
+      "id": 144
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 146,
+      "folioId": 20,
+      "caption": "Georgia: Nutsa Buzaladze - Firefighter",
+      "id": 145
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 147,
+      "folioId": 20,
+      "caption": "Germany: ISAAK - Always On The Run",
+      "id": 146
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 148,
+      "folioId": 20,
+      "caption": "Greece: Marina Satti - ZARI",
+      "id": 147
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 149,
+      "folioId": 20,
+      "caption": "Iceland: Hera Björk - Scared of Heights",
+      "id": 148
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 150,
+      "folioId": 20,
+      "caption": "Ireland: Bambie Thug - Doomsday Blue",
+      "id": 149
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 151,
+      "folioId": 20,
+      "caption": "Israel: Eden Golan - Hurricane",
+      "id": 150
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 152,
+      "folioId": 20,
+      "caption": "Italy: Angelina Mango - La noia",
+      "id": 151
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 153,
+      "folioId": 20,
+      "caption": "Latvia: Dons - Hollow",
+      "id": 152
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 154,
+      "folioId": 20,
+      "caption": "Lithuania: Silvester Belt - Luktelk",
+      "id": 153
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 155,
+      "folioId": 20,
+      "caption": "Luxembourg: TALI - Fighter",
+      "id": 154
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 156,
+      "folioId": 20,
+      "caption": "Malta: Sarah Bonnici - Loop",
+      "id": 155
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 157,
+      "folioId": 20,
+      "caption": "Moldova: Natalia Barbu - In The Middle",
+      "id": 156
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 158,
+      "folioId": 20,
+      "caption": "Netherlands: Joost Klein - Europapa",
+      "id": 157
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 159,
+      "folioId": 20,
+      "caption": "Norway: Gåte - Ulveham",
+      "id": 158
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 160,
+      "folioId": 20,
+      "caption": "Poland: LUNA - The Tower",
+      "id": 159
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 161,
+      "folioId": 20,
+      "caption": "Portugal: iolanda - Grito",
+      "id": 160
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 162,
+      "folioId": 20,
+      "caption": "San Marino: MEGARA - 11:11",
+      "id": 161
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 163,
+      "folioId": 20,
+      "caption": "Serbia: TEYA DORA - RAMONDA",
+      "id": 162
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 164,
+      "folioId": 20,
+      "caption": "Slovenia: Raiven - Veronika",
+      "id": 163
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 165,
+      "folioId": 20,
+      "caption": "Spain: Nebulossa - ZORRA",
+      "id": 164
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 166,
+      "folioId": 20,
+      "caption": "Sweden: Marcus & Martinus - Unforgettable",
+      "id": 165
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 167,
+      "folioId": 20,
+      "caption": "Switzerland: Nemo - The Code",
+      "id": 166
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 168,
+      "folioId": 20,
+      "caption": "United Kingdom: Olly Alexander - Dizzy",
+      "id": 167
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "assetId": 169,
+      "folioId": 20,
+      "caption": "Ukraine: alyona alyona & Jerry Heil - Teresa & Maria",
+      "id": 168
+    },
+    {
+      "authorId": "0",
+      "assetId": 170,
+      "caption": "@EuroVision",
+      "id": 169,
+      "folioId": 0
+    },
+    {
+      "authorId": "0",
+      "assetId": 171,
+      "folioId": 19,
+      "caption": "EuroVision 2024",
+      "id": 170
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 172,
+      "folioId": 21,
+      "caption": "Tony Best Play 2024",
+      "id": 171
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 173,
+      "folioId": 22,
+      "caption": "Jaja's African Hair Braiding",
+      "id": 172
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 174,
+      "folioId": 22,
+      "caption": "Mary Jane",
+      "id": 173
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 175,
+      "folioId": 22,
+      "caption": "Mother Play",
+      "id": 174
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 176,
+      "folioId": 22,
+      "caption": "Prayer for the French Republic",
+      "id": 175
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 177,
+      "folioId": 22,
+      "caption": "Stereophonic",
+      "id": 176
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 178,
+      "folioId": 21,
+      "caption": "Tony Best Musical 2024",
+      "id": 177
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 179,
+      "folioId": 23,
+      "caption": "Hell's Kitchen",
+      "id": 178
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 180,
+      "folioId": 23,
+      "caption": "Illinoise",
+      "id": 179
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 181,
+      "folioId": 23,
+      "caption": "Suffs",
+      "id": 180
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 182,
+      "folioId": 23,
+      "caption": "The Outsiders",
+      "id": 181
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 183,
+      "folioId": 23,
+      "caption": "Water For Elephants",
+      "id": 182
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 184,
+      "folioId": 21,
+      "caption": "Corey Bradford",
+      "id": 183
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 185,
+      "folioId": 24,
+      "caption": "Monroe Doctrine",
+      "id": 184
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 186,
+      "folioId": 24,
+      "caption": "War of 1812",
+      "id": 185
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 187,
+      "folioId": 24,
+      "caption": "Fall of Red Lobster",
+      "id": 186
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 188,
+      "folioId": 24,
+      "caption": "Stock Market Crash of 1929",
+      "id": 187
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 189,
+      "folioId": 24,
+      "caption": "Social Media Tour",
+      "id": 188
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 190,
+      "folioId": 24,
+      "caption": "WWII Study Guide",
+      "id": 189
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 191,
+      "folioId": 24,
+      "caption": "Guess I’ll put in some job applications",
+      "id": 190
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 192,
+      "folioId": 24,
+      "caption": "Is the U.S. a Republic or a Democracy?",
+      "id": 191
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 193,
+      "folioId": 24,
+      "caption": "Types of Government",
+      "id": 192
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 194,
+      "folioId": 24,
+      "caption": "Covid",
+      "id": 193
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 195,
+      "folioId": 24,
+      "caption": "1980s Sitcoms",
+      "id": 194
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 196,
+      "folioId": 24,
+      "caption": "US Constitutional Convention",
+      "id": 195
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 197,
+      "folioId": 24,
+      "caption": "Age of Revolutions",
+      "id": 196
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 198,
+      "folioId": 24,
+      "caption": "Potsdam and After",
+      "id": 197
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 199,
+      "folioId": 21,
+      "caption": "Ladder Singles",
+      "id": 198
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 200,
+      "folioId": 25,
+      "caption": "Amy Schiller",
+      "id": 199
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 201,
+      "folioId": 25,
+      "caption": "Dave Lewis",
+      "id": 200
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 202,
+      "folioId": 25,
+      "caption": "Dave Schiller",
+      "id": 201
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 203,
+      "folioId": 25,
+      "caption": "Matt Gauthier",
+      "id": 202
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 204,
+      "folioId": 25,
+      "caption": "Pipo Lopez",
+      "id": 203
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 205,
+      "folioId": 25,
+      "caption": "Roger Meier",
+      "id": 204
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 206,
+      "folioId": 25,
+      "caption": "Todd Brodeur",
+      "id": 205
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "assetId": 207,
+      "folioId": 25,
+      "caption": "Tom Leitner",
+      "id": 206
+    },
+    {
+      "authorId": "0",
+      "assetId": 208,
+      "caption": "@MiniHerald",
+      "id": 207,
+      "folioId": 0
+    },
+    {
+      "authorId": "0",
+      "assetId": 209,
+      "folioId": 21,
+      "caption": "Tony Best Play 2024",
+      "id": 208
+    },
+    {
+      "authorId": "0",
+      "assetId": 210,
+      "folioId": 21,
+      "caption": "Tony Best Musical 2024",
+      "id": 209
+    },
+    {
+      "authorId": "0",
+      "assetId": 211,
+      "folioId": 21,
+      "caption": "Corey Bradford",
+      "id": 210
+    },
+    {
+      "authorId": "0",
+      "assetId": 212,
+      "folioId": 21,
+      "caption": "Ladder Singles",
+      "id": 211
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 213,
+      "folioId": 26,
+      "caption": "DNC Chair 2025",
+      "id": 212
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 214,
+      "folioId": 27,
+      "caption": "Ben Wikler",
+      "id": 213
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 215,
+      "folioId": 27,
+      "caption": "Faiz Shakir",
+      "id": 214
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 216,
+      "folioId": 27,
+      "caption": "Garlin Gilchrist",
+      "id": 215
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 217,
+      "folioId": 27,
+      "caption": "Jason Paul",
+      "id": 216
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 218,
+      "folioId": 27,
+      "caption": "Ken Martin",
+      "id": 217
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 219,
+      "folioId": 27,
+      "caption": "Marianne Williamson",
+      "id": 218
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 220,
+      "folioId": 27,
+      "caption": "Martin O’Malley",
+      "id": 219
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 221,
+      "folioId": 27,
+      "caption": "Nate Snyder",
+      "id": 220
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 222,
+      "folioId": 27,
+      "caption": "Quintessa Hathaway",
+      "id": 221
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 223,
+      "folioId": 27,
+      "caption": "Robert Houton",
+      "id": 222
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 224,
+      "folioId": 26,
+      "caption": "NYC Mayor 2025",
+      "id": 223
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 225,
+      "folioId": 28,
+      "caption": "Eric Adams",
+      "id": 224
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 226,
+      "folioId": 28,
+      "caption": "Brad Lander",
+      "id": 225
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 227,
+      "folioId": 28,
+      "caption": "Jessica Ramos",
+      "id": 226
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 228,
+      "folioId": 28,
+      "caption": "Zellnor Myrie",
+      "id": 227
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 229,
+      "folioId": 28,
+      "caption": "Zohran Mamdani",
+      "id": 228
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 230,
+      "folioId": 28,
+      "caption": "Scott Stringer",
+      "id": 229
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 231,
+      "folioId": 28,
+      "caption": "Michael Blake",
+      "id": 230
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 232,
+      "folioId": 28,
+      "caption": "Jim Walden",
+      "id": 231
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 233,
+      "folioId": 28,
+      "caption": "Whitney Tilson",
+      "id": 232
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 234,
+      "folioId": 26,
+      "caption": "AimsPoll Priorities",
+      "id": 233
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 235,
+      "folioId": 29,
+      "caption": "Border Integrity",
+      "id": 234
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 236,
+      "folioId": 29,
+      "caption": "Budget Oversight",
+      "id": 235
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 237,
+      "folioId": 29,
+      "caption": "Child Protection",
+      "id": 236
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 238,
+      "folioId": 29,
+      "caption": "Constructive Diplomacy",
+      "id": 237
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 239,
+      "folioId": 29,
+      "caption": "Crime & Punishment",
+      "id": 238
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 240,
+      "folioId": 29,
+      "caption": "Education",
+      "id": 239
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 241,
+      "folioId": 29,
+      "caption": "Election Reform",
+      "id": 240
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 242,
+      "folioId": 29,
+      "caption": "Growth & Prosperity",
+      "id": 241
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 243,
+      "folioId": 29,
+      "caption": "Gun Plague",
+      "id": 242
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 244,
+      "folioId": 29,
+      "caption": "Health Care",
+      "id": 243
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 245,
+      "folioId": 29,
+      "caption": "Military Modernization",
+      "id": 244
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 246,
+      "folioId": 29,
+      "caption": "Minimum Wage",
+      "id": 245
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 247,
+      "folioId": 29,
+      "caption": "Rule of Law",
+      "id": 246
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 248,
+      "folioId": 29,
+      "caption": "Tax Policy",
+      "id": 247
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 249,
+      "folioId": 29,
+      "caption": "Baseline Facts",
+      "id": 248
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "assetId": 250,
+      "folioId": 29,
+      "caption": "Baseline Values",
+      "id": 249
+    },
+    {
+      "authorId": "0",
+      "assetId": 251,
+      "caption": "@Politics",
+      "id": 250,
+      "folioId": 0
+    },
+    {
+      "authorId": "0",
+      "assetId": 252,
+      "folioId": 26,
+      "caption": "DNC Chair 2025",
+      "id": 251
+    },
+    {
+      "authorId": "0",
+      "assetId": 253,
+      "folioId": 26,
+      "caption": "NYC Mayor 2025",
+      "id": 252
+    },
+    {
+      "authorId": "0",
+      "assetId": 254,
+      "folioId": 26,
+      "caption": "AimsPoll Priorities",
+      "id": 253
+    },
+    {
+      "authorId": "0194e312-d5c3-7ae3-b133-7c13e373076e",
+      "assetId": 255,
+      "caption": "@Craig",
+      "id": 254,
+      "folioId": 0
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "folios": [
+    {
+      "id": 0,
+      "authorId": "",
+      "folioName": ""
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "@Oscar2025",
+      "id": 1
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "Best Picture",
+      "parentFolioId": 1,
+      "id": 2
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "Best Director",
+      "parentFolioId": 1,
+      "id": 3
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "Best Actress",
+      "parentFolioId": 1,
+      "id": 4
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "Best Actor",
+      "parentFolioId": 1,
+      "id": 5
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "Original Screenplay",
+      "parentFolioId": 1,
+      "id": 6
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "Adapted Screenplay",
+      "parentFolioId": 1,
+      "id": 7
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "International Feature",
+      "parentFolioId": 1,
+      "id": 8
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "Original Score",
+      "parentFolioId": 1,
+      "id": 9
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "Original Song",
+      "parentFolioId": 1,
+      "id": 10
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "Costume Design",
+      "parentFolioId": 1,
+      "id": 11
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "Documentary Feature",
+      "parentFolioId": 1,
+      "id": 12
+    },
+    {
+      "authorId": "oscars---oscars---oscars",
+      "folioName": "Animated Feature",
+      "parentFolioId": 1,
+      "id": 13
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "folioName": "@Grammy2025",
+      "id": 14
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "folioName": "Album of the Year",
+      "parentFolioId": 14,
+      "id": 15
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "folioName": "New Artist",
+      "parentFolioId": 14,
+      "id": 16
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "folioName": "Song of the Year",
+      "parentFolioId": 14,
+      "id": 17
+    },
+    {
+      "authorId": "grammy---grammy---grammy",
+      "folioName": "Record of the Year",
+      "parentFolioId": 14,
+      "id": 18
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "folioName": "@EuroVision",
+      "id": 19
+    },
+    {
+      "authorId": "EuroVision---EuroVision---EuroVision",
+      "folioName": "EuroVision 2024",
+      "parentFolioId": 19,
+      "id": 20
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "folioName": "@MiniHerald",
+      "id": 21
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "folioName": "Tony Best Play 2024",
+      "parentFolioId": 21,
+      "id": 22
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "folioName": "Tony Best Musical 2024",
+      "parentFolioId": 21,
+      "id": 23
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "folioName": "Corey Bradford",
+      "parentFolioId": 21,
+      "id": 24
+    },
+    {
+      "authorId": "mh7---mh7---mh7---mh7",
+      "folioName": "Ladder Singles",
+      "parentFolioId": 21,
+      "id": 25
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "folioName": "@Politics",
+      "id": 26
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "folioName": "DNC Chair 2025",
+      "parentFolioId": 26,
+      "id": 27
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "folioName": "NYC Mayor 2025",
+      "parentFolioId": 26,
+      "id": 28
+    },
+    {
+      "authorId": "politics---politics---politics",
+      "folioName": "AimsPoll Priorities",
+      "parentFolioId": 26,
+      "id": 29
+    },
+    {
+      "authorId": "0194e312-d5c3-7ae3-b133-7c13e373076e",
+      "folioName": "@Craig",
+      "id": 30
+    }
+  ]
+}
