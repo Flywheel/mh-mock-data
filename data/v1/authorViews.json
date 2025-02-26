@@ -11,7 +11,7 @@
           "authorId": "oscars---oscars---oscars",
           "assetId": 2,
           "folioId": 1,
-          "caption": "Documentary Feature",
+          "caption": "Best Picture",
           "id": 1,
           "assetView": {
             "authorId": "oscars---oscars---oscars",
@@ -22,54 +22,314 @@
         },
         {
           "authorId": "oscars---oscars---oscars",
-          "assetId": 8,
+          "assetId": 13,
           "folioId": 1,
-          "caption": "Animated Feature",
-          "id": 7,
+          "caption": "Best Director",
+          "id": 12,
           "assetView": {
             "authorId": "oscars---oscars---oscars",
             "mediaType": "folio",
             "sourceId": "3",
-            "id": 8
+            "id": 13
           }
         },
         {
           "authorId": "oscars---oscars---oscars",
-          "assetId": 14,
+          "assetId": 19,
+          "folioId": 1,
+          "caption": "Best Actress",
+          "id": 18,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "folio",
+            "sourceId": "4",
+            "id": 19
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 25,
+          "folioId": 1,
+          "caption": "Best Actor",
+          "id": 24,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "folio",
+            "sourceId": "5",
+            "id": 25
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 31,
+          "folioId": 1,
+          "caption": "Original Screenplay",
+          "id": 30,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "folio",
+            "sourceId": "6",
+            "id": 31
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 37,
+          "folioId": 1,
+          "caption": "Adapted Screenplay",
+          "id": 36,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "folio",
+            "sourceId": "7",
+            "id": 37
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 43,
+          "folioId": 1,
+          "caption": "International Feature",
+          "id": 42,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "folio",
+            "sourceId": "8",
+            "id": 43
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 49,
+          "folioId": 1,
+          "caption": "Original Score",
+          "id": 48,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "folio",
+            "sourceId": "9",
+            "id": 49
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 55,
+          "folioId": 1,
+          "caption": "Original Song",
+          "id": 54,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "folio",
+            "sourceId": "10",
+            "id": 55
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 61,
+          "folioId": 1,
+          "caption": "Costume Design",
+          "id": 60,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "folio",
+            "sourceId": "11",
+            "id": 61
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 67,
+          "folioId": 1,
+          "caption": "Documentary Feature",
+          "id": 66,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "folio",
+            "sourceId": "12",
+            "id": 67
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 73,
+          "folioId": 1,
+          "caption": "Animated Feature",
+          "id": 72,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "folio",
+            "sourceId": "13",
+            "id": 73
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 79,
           "caption": "@Oscar2025",
-          "id": 13,
+          "id": 78,
           "folioId": 1,
           "assetView": {
             "authorId": "oscars---oscars---oscars",
             "mediaType": "pitch",
             "sourceId": "1",
-            "id": 14
+            "id": 79
           }
         },
         {
           "authorId": "oscars---oscars---oscars",
-          "assetId": 15,
+          "assetId": 80,
           "folioId": 1,
-          "caption": "Documentary Feature",
-          "id": 14,
+          "caption": "Best Picture",
+          "id": 79,
           "assetView": {
             "authorId": "oscars---oscars---oscars",
             "mediaType": "pitch",
             "sourceId": "2",
-            "id": 15
+            "id": 80
           }
         },
         {
           "authorId": "oscars---oscars---oscars",
-          "assetId": 16,
+          "assetId": 81,
           "folioId": 1,
-          "caption": "Animated Feature",
-          "id": 15,
+          "caption": "Best Director",
+          "id": 80,
           "assetView": {
             "authorId": "oscars---oscars---oscars",
             "mediaType": "pitch",
             "sourceId": "3",
-            "id": 16
+            "id": 81
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 82,
+          "folioId": 1,
+          "caption": "Best Actress",
+          "id": 81,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "pitch",
+            "sourceId": "4",
+            "id": 82
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 83,
+          "folioId": 1,
+          "caption": "Best Actor",
+          "id": 82,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "pitch",
+            "sourceId": "5",
+            "id": 83
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 84,
+          "folioId": 1,
+          "caption": "Original Screenplay",
+          "id": 83,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "pitch",
+            "sourceId": "6",
+            "id": 84
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 85,
+          "folioId": 1,
+          "caption": "Adapted Screenplay",
+          "id": 84,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "pitch",
+            "sourceId": "7",
+            "id": 85
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 86,
+          "folioId": 1,
+          "caption": "International Feature",
+          "id": 85,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "pitch",
+            "sourceId": "8",
+            "id": 86
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 87,
+          "folioId": 1,
+          "caption": "Original Score",
+          "id": 86,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "pitch",
+            "sourceId": "9",
+            "id": 87
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 88,
+          "folioId": 1,
+          "caption": "Original Song",
+          "id": 87,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "pitch",
+            "sourceId": "10",
+            "id": 88
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 89,
+          "folioId": 1,
+          "caption": "Costume Design",
+          "id": 88,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "pitch",
+            "sourceId": "11",
+            "id": 89
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 90,
+          "folioId": 1,
+          "caption": "Documentary Feature",
+          "id": 89,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "pitch",
+            "sourceId": "12",
+            "id": 90
+          }
+        },
+        {
+          "authorId": "oscars---oscars---oscars",
+          "assetId": 91,
+          "folioId": 1,
+          "caption": "Animated Feature",
+          "id": 90,
+          "assetView": {
+            "authorId": "oscars---oscars---oscars",
+            "mediaType": "pitch",
+            "sourceId": "13",
+            "id": 91
           }
         }
       ],
@@ -92,6 +352,25 @@
           "id": 1,
           "slateMemberViews": [
             {
+              "placementId": 7,
+              "slateId": 1,
+              "rankOrder": 2,
+              "id": 2,
+              "placementView": {
+                "authorId": "oscars---oscars---oscars",
+                "assetId": 8,
+                "folioId": 2,
+                "caption": "Emilia Pérez",
+                "id": 7,
+                "assetView": {
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "4h7j_EcZ5fU",
+                  "id": 8
+                }
+              }
+            },
+            {
               "placementId": 14,
               "slateId": 1,
               "rankOrder": 3,
@@ -99,13 +378,13 @@
               "placementView": {
                 "authorId": "oscars---oscars---oscars",
                 "assetId": 15,
-                "folioId": 1,
-                "caption": "Documentary Feature",
+                "folioId": 3,
+                "caption": "Brady Corbet - The Brutalist",
                 "id": 14,
                 "assetView": {
                   "authorId": "oscars---oscars---oscars",
-                  "mediaType": "pitch",
-                  "sourceId": "2",
+                  "mediaType": "youtube",
+                  "sourceId": "GdRXPAHIEW4",
                   "id": 15
                 }
               }
@@ -118,13 +397,13 @@
               "placementView": {
                 "authorId": "oscars---oscars---oscars",
                 "assetId": 16,
-                "folioId": 1,
-                "caption": "Animated Feature",
+                "folioId": 3,
+                "caption": "James Mangold - A Complete Unknown",
                 "id": 15,
                 "assetView": {
                   "authorId": "oscars---oscars---oscars",
-                  "mediaType": "pitch",
-                  "sourceId": "3",
+                  "mediaType": "youtube",
+                  "sourceId": "FdV-Cs5o8mc",
                   "id": 16
                 }
               }
@@ -156,12 +435,12 @@
                 "authorId": "oscars---oscars---oscars",
                 "assetId": 3,
                 "folioId": 2,
-                "caption": "Black Box Diaries - Shiori Itō (MTV)",
+                "caption": "Anora",
                 "id": 2,
                 "assetView": {
                   "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "ZQ2RLpHPF78",
+                  "sourceId": "p1HxTmV5i7c",
                   "id": 3
                 }
               }
@@ -175,12 +454,12 @@
                 "authorId": "oscars---oscars---oscars",
                 "assetId": 4,
                 "folioId": 2,
-                "caption": "No Other Land - Basel Adra - Hamdan Ballal - Yuval Abraham & Rachel Szor (No distributor)",
+                "caption": "The Brutalist",
                 "id": 3,
                 "assetView": {
                   "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "7AS6v3hC86Q",
+                  "sourceId": "GdRXPAHIEW4",
                   "id": 4
                 }
               }
@@ -194,12 +473,12 @@
                 "authorId": "oscars---oscars---oscars",
                 "assetId": 5,
                 "folioId": 2,
-                "caption": "Porcelain War - Brendan Bellomo & Slava Leontyev (Picturehouse)",
+                "caption": "A Complete Unknown",
                 "id": 4,
                 "assetView": {
                   "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "JPxIHYUXeEk",
+                  "sourceId": "FdV-Cs5o8mc",
                   "id": 5
                 }
               }
@@ -213,12 +492,12 @@
                 "authorId": "oscars---oscars---oscars",
                 "assetId": 6,
                 "folioId": 2,
-                "caption": "Soundtrack to a Coup d’Etat - Johan Grimonprez (Kino Lorber)",
+                "caption": "Conclave",
                 "id": 5,
                 "assetView": {
                   "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "_gK0ZXzSVj0",
+                  "sourceId": "JX9jasdi3ic",
                   "id": 6
                 }
               }
@@ -232,12 +511,12 @@
                 "authorId": "oscars---oscars---oscars",
                 "assetId": 7,
                 "folioId": 2,
-                "caption": "Sugarcane - Julian Brave NoiseCat & Emily Kassie (Nat Geo)",
+                "caption": "Dune: Part Two",
                 "id": 6,
                 "assetView": {
                   "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "CisI_WFPDOk",
+                  "sourceId": "Way9Dexny3w",
                   "id": 7
                 }
               }
@@ -268,13 +547,13 @@
               "placementView": {
                 "authorId": "oscars---oscars---oscars",
                 "assetId": 9,
-                "folioId": 3,
-                "caption": "Flow (Janus Films/Sideshow)",
+                "folioId": 2,
+                "caption": "I’m Still Here",
                 "id": 8,
                 "assetView": {
                   "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "eD06LQzWFTc",
+                  "sourceId": "gDunV808Yf4",
                   "id": 9
                 }
               }
@@ -287,13 +566,13 @@
               "placementView": {
                 "authorId": "oscars---oscars---oscars",
                 "assetId": 10,
-                "folioId": 3,
-                "caption": "Inside Out 2 (Disney/Pixar)",
+                "folioId": 2,
+                "caption": "Nickel Boys",
                 "id": 9,
                 "assetView": {
                   "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "LEjhY15eCx0",
+                  "sourceId": "-2qZ429rUZw",
                   "id": 10
                 }
               }
@@ -306,13 +585,13 @@
               "placementView": {
                 "authorId": "oscars---oscars---oscars",
                 "assetId": 11,
-                "folioId": 3,
-                "caption": "Memoir of a Snail (IFC Films)",
+                "folioId": 2,
+                "caption": "The Substance",
                 "id": 10,
                 "assetView": {
                   "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "Ehc8cc7g31I",
+                  "sourceId": "LNlrGhBpYjc",
                   "id": 11
                 }
               }
@@ -325,33 +604,14 @@
               "placementView": {
                 "authorId": "oscars---oscars---oscars",
                 "assetId": 12,
-                "folioId": 3,
-                "caption": "Wallace & Gromit: Vengeance Most Fowl (Aardman/Netflix)",
+                "folioId": 2,
+                "caption": "Wicked",
                 "id": 11,
                 "assetView": {
                   "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "X0ZGf2B01uU",
+                  "sourceId": "6COmYeLsz4c",
                   "id": 12
-                }
-              }
-            },
-            {
-              "placementId": 12,
-              "slateId": 3,
-              "rankOrder": 5,
-              "id": 14,
-              "placementView": {
-                "authorId": "oscars---oscars---oscars",
-                "assetId": 13,
-                "folioId": 3,
-                "caption": "The Wild Robot (Dreamworks/Universal)",
-                "id": 12,
-                "assetView": {
-                  "authorId": "oscars---oscars---oscars",
-                  "mediaType": "youtube",
-                  "sourceId": "67vbA5ZJdKQ",
-                  "id": 13
                 }
               }
             }
@@ -366,97 +626,97 @@
     "authorFolio": {
       "authorId": "politics---politics---politics",
       "folioName": "@Politics",
-      "id": 4,
+      "id": 26,
       "placementViews": [
         {
           "authorId": "politics---politics---politics",
-          "assetId": 17,
-          "folioId": 4,
-          "caption": "DNC Chair 2025",
-          "id": 16,
-          "assetView": {
-            "authorId": "politics---politics---politics",
-            "mediaType": "folio",
-            "sourceId": "5",
-            "id": 17
-          }
-        },
-        {
-          "authorId": "politics---politics---politics",
-          "assetId": 28,
-          "folioId": 4,
+          "assetId": 213,
+          "folioId": 26,
           "caption": "NYC Mayor 2025",
-          "id": 27,
+          "id": 212,
           "assetView": {
             "authorId": "politics---politics---politics",
             "mediaType": "folio",
-            "sourceId": "6",
-            "id": 28
+            "sourceId": "27",
+            "id": 213
           }
         },
         {
           "authorId": "politics---politics---politics",
-          "assetId": 38,
-          "folioId": 4,
+          "assetId": 223,
+          "folioId": 26,
+          "caption": "DNC Chair 2025",
+          "id": 222,
+          "assetView": {
+            "authorId": "politics---politics---politics",
+            "mediaType": "folio",
+            "sourceId": "28",
+            "id": 223
+          }
+        },
+        {
+          "authorId": "politics---politics---politics",
+          "assetId": 234,
+          "folioId": 26,
           "caption": "AimsPoll Priorities",
-          "id": 37,
+          "id": 233,
           "assetView": {
             "authorId": "politics---politics---politics",
             "mediaType": "folio",
-            "sourceId": "7",
-            "id": 38
+            "sourceId": "29",
+            "id": 234
           }
         },
         {
           "authorId": "politics---politics---politics",
-          "assetId": 55,
+          "assetId": 251,
           "caption": "@Politics",
-          "id": 54,
-          "folioId": 4,
+          "id": 250,
+          "folioId": 26,
           "assetView": {
             "authorId": "politics---politics---politics",
             "mediaType": "pitch",
-            "sourceId": "4",
-            "id": 55
+            "sourceId": "26",
+            "id": 251
           }
         },
         {
           "authorId": "politics---politics---politics",
-          "assetId": 56,
-          "folioId": 4,
-          "caption": "DNC Chair 2025",
-          "id": 55,
-          "assetView": {
-            "authorId": "politics---politics---politics",
-            "mediaType": "pitch",
-            "sourceId": "5",
-            "id": 56
-          }
-        },
-        {
-          "authorId": "politics---politics---politics",
-          "assetId": 57,
-          "folioId": 4,
+          "assetId": 252,
+          "folioId": 26,
           "caption": "NYC Mayor 2025",
-          "id": 56,
+          "id": 251,
           "assetView": {
             "authorId": "politics---politics---politics",
             "mediaType": "pitch",
-            "sourceId": "6",
-            "id": 57
+            "sourceId": "27",
+            "id": 252
           }
         },
         {
           "authorId": "politics---politics---politics",
-          "assetId": 58,
-          "folioId": 4,
-          "caption": "AimsPoll Priorities",
-          "id": 57,
+          "assetId": 253,
+          "folioId": 26,
+          "caption": "DNC Chair 2025",
+          "id": 252,
           "assetView": {
             "authorId": "politics---politics---politics",
             "mediaType": "pitch",
-            "sourceId": "7",
-            "id": 58
+            "sourceId": "28",
+            "id": 253
+          }
+        },
+        {
+          "authorId": "politics---politics---politics",
+          "assetId": 254,
+          "folioId": 26,
+          "caption": "AimsPoll Priorities",
+          "id": 253,
+          "assetView": {
+            "authorId": "politics---politics---politics",
+            "mediaType": "pitch",
+            "sourceId": "29",
+            "id": 254
           }
         }
       ],
@@ -479,20 +739,77 @@
           "id": 4,
           "slateMemberViews": [
             {
+              "placementId": 16,
+              "slateId": 4,
+              "rankOrder": 1,
+              "id": 15,
+              "placementView": {
+                "authorId": "oscars---oscars---oscars",
+                "assetId": 17,
+                "folioId": 3,
+                "caption": "Jacques Audiard - Emilia Pérez",
+                "id": 16,
+                "assetView": {
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "4h7j_EcZ5fU",
+                  "id": 17
+                }
+              }
+            },
+            {
+              "placementId": 27,
+              "slateId": 4,
+              "rankOrder": 2,
+              "id": 16,
+              "placementView": {
+                "authorId": "oscars---oscars---oscars",
+                "assetId": 28,
+                "folioId": 5,
+                "caption": "Colman Domingo - Sing Sing",
+                "id": 27,
+                "assetView": {
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "j3dXc6P3zH8",
+                  "id": 28
+                }
+              }
+            },
+            {
+              "placementId": 37,
+              "slateId": 4,
+              "rankOrder": 3,
+              "id": 17,
+              "placementView": {
+                "authorId": "oscars---oscars---oscars",
+                "assetId": 38,
+                "folioId": 7,
+                "caption": "A Complete Unknown - Jay Cocks & James Mangold",
+                "id": 37,
+                "assetView": {
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "FdV-Cs5o8mc",
+                  "id": 38
+                }
+              }
+            },
+            {
               "placementId": 55,
               "slateId": 4,
               "rankOrder": 4,
               "id": 18,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 56,
-                "folioId": 4,
-                "caption": "DNC Chair 2025",
+                "folioId": 10,
+                "caption": "Never Too Late - Elton John: Never Too Late (Elton John & Brandi Carlile)",
                 "id": 55,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "pitch",
-                  "sourceId": "5",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "UwL4UC_tLTI",
                   "id": 56
                 }
               }
@@ -503,15 +820,15 @@
               "rankOrder": 5,
               "id": 19,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 57,
-                "folioId": 4,
-                "caption": "NYC Mayor 2025",
+                "folioId": 10,
+                "caption": "El Mal - Emilia Pérez (Clement Ducol - Camille & Jacques Audiard)",
                 "id": 56,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "pitch",
-                  "sourceId": "6",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "IkLRuy3qFHY",
                   "id": 57
                 }
               }
@@ -522,15 +839,15 @@
               "rankOrder": 6,
               "id": 20,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 58,
-                "folioId": 4,
-                "caption": "AimsPoll Priorities",
+                "folioId": 10,
+                "caption": "Mi Camino - Emilia Pérez (Clement Ducol & Camille)",
                 "id": 57,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "pitch",
-                  "sourceId": "7",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "REM5u28nToc",
                   "id": 58
                 }
               }
@@ -559,35 +876,16 @@
               "rankOrder": 1,
               "id": 21,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 18,
-                "folioId": 5,
-                "caption": "Ben Wikler",
+                "folioId": 3,
+                "caption": "Coralie Fargeat - The Substance",
                 "id": 17,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
+                  "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "TfBtlvfysjw",
+                  "sourceId": "LNlrGhBpYjc",
                   "id": 18
-                }
-              }
-            },
-            {
-              "placementId": 18,
-              "slateId": 5,
-              "rankOrder": 2,
-              "id": 22,
-              "placementView": {
-                "authorId": "politics---politics---politics",
-                "assetId": 19,
-                "folioId": 5,
-                "caption": "Faiz Shakir",
-                "id": 18,
-                "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "youtube",
-                  "sourceId": "tQEGeA3mJ7A",
-                  "id": 19
                 }
               }
             },
@@ -597,15 +895,15 @@
               "rankOrder": 3,
               "id": 23,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 20,
-                "folioId": 5,
-                "caption": "Garlin Gilchrist",
+                "folioId": 4,
+                "caption": "Cynthia Erivo - Wicked",
                 "id": 19,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "6COmYeLsz4c",
                   "id": 20
                 }
               }
@@ -616,15 +914,15 @@
               "rankOrder": 4,
               "id": 24,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 21,
-                "folioId": 5,
-                "caption": "Jason Paul",
+                "folioId": 4,
+                "caption": "Karla Sofia Gascón - Emilia Pérez",
                 "id": 20,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
+                  "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "dRLKV_RrylE",
+                  "sourceId": "4h7j_EcZ5fU",
                   "id": 21
                 }
               }
@@ -635,15 +933,15 @@
               "rankOrder": 5,
               "id": 25,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 22,
-                "folioId": 5,
-                "caption": "Ken Martin",
+                "folioId": 4,
+                "caption": "Mikey Madison - Anora",
                 "id": 21,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
+                  "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "meYmLWtCTW4",
+                  "sourceId": "p1HxTmV5i7c",
                   "id": 22
                 }
               }
@@ -654,15 +952,15 @@
               "rankOrder": 6,
               "id": 26,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 23,
-                "folioId": 5,
-                "caption": "Marianne Williamson",
+                "folioId": 4,
+                "caption": "Demi Moore - The Substance",
                 "id": 22,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
+                  "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "apAUfd0Vg1s",
+                  "sourceId": "LNlrGhBpYjc",
                   "id": 23
                 }
               }
@@ -673,35 +971,16 @@
               "rankOrder": 7,
               "id": 27,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 24,
-                "folioId": 5,
-                "caption": "Martin O’Malley",
+                "folioId": 4,
+                "caption": "Fernanda Torres - I’m Still Here",
                 "id": 23,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
+                  "authorId": "oscars---oscars---oscars",
                   "mediaType": "youtube",
-                  "sourceId": "p7l4L4b5c1A",
+                  "sourceId": "gDunV808Yf4",
                   "id": 24
-                }
-              }
-            },
-            {
-              "placementId": 24,
-              "slateId": 5,
-              "rankOrder": 8,
-              "id": 28,
-              "placementView": {
-                "authorId": "politics---politics---politics",
-                "assetId": 25,
-                "folioId": 5,
-                "caption": "Nate Snyder",
-                "id": 24,
-                "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "youtube",
-                  "sourceId": "7bITgW1cX_g",
-                  "id": 25
                 }
               }
             },
@@ -711,15 +990,15 @@
               "rankOrder": 9,
               "id": 29,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 26,
                 "folioId": 5,
-                "caption": "Quintessa Hathaway",
+                "caption": "Adrian Brody - The Brutalist",
                 "id": 25,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "GdRXPAHIEW4",
                   "id": 26
                 }
               }
@@ -730,15 +1009,15 @@
               "rankOrder": 10,
               "id": 30,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 27,
                 "folioId": 5,
-                "caption": "Robert Houton",
+                "caption": "Timothée Chalamet - A Complete Unknown",
                 "id": 26,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "FdV-Cs5o8mc",
                   "id": 27
                 }
               }
@@ -767,15 +1046,15 @@
               "rankOrder": 1,
               "id": 31,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 29,
-                "folioId": 6,
-                "caption": "Eric Adams",
+                "folioId": 5,
+                "caption": "Ralph Fiennes - Conclave",
                 "id": 28,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "JX9jasdi3ic",
                   "id": 29
                 }
               }
@@ -786,35 +1065,16 @@
               "rankOrder": 2,
               "id": 32,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 30,
-                "folioId": 6,
-                "caption": "Brad Lander",
+                "folioId": 5,
+                "caption": "Sebastian Stan - The Apprentice",
                 "id": 29,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "0_OeYJXXlw0",
                   "id": 30
-                }
-              }
-            },
-            {
-              "placementId": 30,
-              "slateId": 6,
-              "rankOrder": 3,
-              "id": 33,
-              "placementView": {
-                "authorId": "politics---politics---politics",
-                "assetId": 31,
-                "folioId": 6,
-                "caption": "Jessica Ramos",
-                "id": 30,
-                "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
-                  "id": 31
                 }
               }
             },
@@ -824,15 +1084,15 @@
               "rankOrder": 4,
               "id": 34,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 32,
                 "folioId": 6,
-                "caption": "Zellnor Myrie",
+                "caption": "Anora - Sean Baker",
                 "id": 31,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "p1HxTmV5i7c",
                   "id": 32
                 }
               }
@@ -843,15 +1103,15 @@
               "rankOrder": 5,
               "id": 35,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 33,
                 "folioId": 6,
-                "caption": "Zohran Mamdani",
+                "caption": "The Brutalist - Brady Corbet & Mona Fastvold",
                 "id": 32,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "GdRXPAHIEW4",
                   "id": 33
                 }
               }
@@ -862,15 +1122,15 @@
               "rankOrder": 6,
               "id": 36,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 34,
                 "folioId": 6,
-                "caption": "Scott Stringer",
+                "caption": "A Real Pain - Jesse Eisenberg",
                 "id": 33,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "b2et8Vpu7Ls",
                   "id": 34
                 }
               }
@@ -881,15 +1141,15 @@
               "rankOrder": 7,
               "id": 37,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 35,
                 "folioId": 6,
-                "caption": "Michael Blake",
+                "caption": "September 5 - Tim Fehlbaum & Moritz Binder",
                 "id": 34,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "Azud40CQ3IE",
                   "id": 35
                 }
               }
@@ -900,35 +1160,16 @@
               "rankOrder": 8,
               "id": 38,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 36,
                 "folioId": 6,
-                "caption": "Jim Walden",
+                "caption": "The Substance - Coralie Fargeat",
                 "id": 35,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "LNlrGhBpYjc",
                   "id": 36
-                }
-              }
-            },
-            {
-              "placementId": 36,
-              "slateId": 6,
-              "rankOrder": 9,
-              "id": 39,
-              "placementView": {
-                "authorId": "politics---politics---politics",
-                "assetId": 37,
-                "folioId": 6,
-                "caption": "Whitney Tilson",
-                "id": 36,
-                "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "textcaption",
-                  "sourceId": "",
-                  "id": 37
                 }
               }
             }
@@ -956,15 +1197,15 @@
               "rankOrder": 1,
               "id": 40,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 39,
                 "folioId": 7,
-                "caption": "Border Integrity",
+                "caption": "Conclave - Peter Straughan",
                 "id": 38,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Lion.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "JX9jasdi3ic",
                   "id": 39
                 }
               }
@@ -975,15 +1216,15 @@
               "rankOrder": 2,
               "id": 41,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 40,
                 "folioId": 7,
-                "caption": "Budget Oversight",
+                "caption": "Emilia Pérez - Jacques Audiard - Thomas Bidegain & Nicolas Livecchi",
                 "id": 39,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Elephant.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "4h7j_EcZ5fU",
                   "id": 40
                 }
               }
@@ -994,15 +1235,15 @@
               "rankOrder": 3,
               "id": 42,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 41,
                 "folioId": 7,
-                "caption": "Child Protection",
+                "caption": "Nickel Boys - RaMell Ross & Joslyn Barnes",
                 "id": 40,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Argali.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "-2qZ429rUZw",
                   "id": 41
                 }
               }
@@ -1013,35 +1254,16 @@
               "rankOrder": 4,
               "id": 43,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 42,
                 "folioId": 7,
-                "caption": "Constructive Diplomacy",
+                "caption": "Sing Sing - Clint Bentley - Greg Kwedar - Clarence Maclin & John Divine G Whitfield",
                 "id": 41,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Dove.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "j3dXc6P3zH8",
                   "id": 42
-                }
-              }
-            },
-            {
-              "placementId": 42,
-              "slateId": 7,
-              "rankOrder": 5,
-              "id": 44,
-              "placementView": {
-                "authorId": "politics---politics---politics",
-                "assetId": 43,
-                "folioId": 7,
-                "caption": "Crime & Punishment",
-                "id": 42,
-                "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Coyote.jpeg",
-                  "id": 43
                 }
               }
             },
@@ -1051,15 +1273,15 @@
               "rankOrder": 6,
               "id": 45,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 44,
-                "folioId": 7,
-                "caption": "Education",
+                "folioId": 8,
+                "caption": "I’m Still Here - Walter Salles (Brazil)",
                 "id": 43,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Moose.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "gDunV808Yf4",
                   "id": 44
                 }
               }
@@ -1070,15 +1292,15 @@
               "rankOrder": 7,
               "id": 46,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 45,
-                "folioId": 7,
-                "caption": "Election Reform",
+                "folioId": 8,
+                "caption": "The Girl with the Needle - Magnus von Horn (Denmark)",
                 "id": 44,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/RoadRunner.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "Mo8VcGW7qvs",
                   "id": 45
                 }
               }
@@ -1089,15 +1311,15 @@
               "rankOrder": 8,
               "id": 47,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 46,
-                "folioId": 7,
-                "caption": "Growth & Prosperity",
+                "folioId": 8,
+                "caption": "Emilia Pérez - Jacques Audiard (France)",
                 "id": 45,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Squirrel.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "4h7j_EcZ5fU",
                   "id": 46
                 }
               }
@@ -1108,15 +1330,15 @@
               "rankOrder": 9,
               "id": 48,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 47,
-                "folioId": 7,
-                "caption": "Gun Plague",
+                "folioId": 8,
+                "caption": "The Seed of the Sacred Fig - Mohammad Rasoulof (Germany)",
                 "id": 46,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Grasshopper.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "TV3Sk2zwqK4",
                   "id": 47
                 }
               }
@@ -1127,35 +1349,16 @@
               "rankOrder": 10,
               "id": 49,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 48,
-                "folioId": 7,
-                "caption": "Health Care",
+                "folioId": 8,
+                "caption": "Flow - Miguel Gomes (Latvia)",
                 "id": 47,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Donkey.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "eD06LQzWFTc",
                   "id": 48
-                }
-              }
-            },
-            {
-              "placementId": 48,
-              "slateId": 7,
-              "rankOrder": 11,
-              "id": 50,
-              "placementView": {
-                "authorId": "politics---politics---politics",
-                "assetId": 49,
-                "folioId": 7,
-                "caption": "Military Modernization",
-                "id": 48,
-                "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Hawk.jpeg",
-                  "id": 49
                 }
               }
             },
@@ -1165,15 +1368,15 @@
               "rankOrder": 12,
               "id": 51,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 50,
-                "folioId": 7,
-                "caption": "Minimum Wage",
+                "folioId": 9,
+                "caption": "The Brutalist - Daniel Blumberg",
                 "id": 49,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Turtle.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "GdRXPAHIEW4",
                   "id": 50
                 }
               }
@@ -1184,15 +1387,15 @@
               "rankOrder": 13,
               "id": 52,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 51,
-                "folioId": 7,
-                "caption": "Rule of Law",
+                "folioId": 9,
+                "caption": "Conclave - Volker Bertelmann",
                 "id": 50,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Eagle.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "JX9jasdi3ic",
                   "id": 51
                 }
               }
@@ -1203,15 +1406,15 @@
               "rankOrder": 14,
               "id": 53,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 52,
-                "folioId": 7,
-                "caption": "Tax Policy",
+                "folioId": 9,
+                "caption": "Emilia Pérez - Clément Ducol & Camille",
                 "id": 51,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Rhino.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "4h7j_EcZ5fU",
                   "id": 52
                 }
               }
@@ -1222,15 +1425,15 @@
               "rankOrder": 15,
               "id": 54,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 53,
-                "folioId": 7,
-                "caption": "Baseline Facts",
+                "folioId": 9,
+                "caption": "Wicked - John Powell & Stephen Schwartz",
                 "id": 52,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Fox.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "6COmYeLsz4c",
                   "id": 53
                 }
               }
@@ -1241,15 +1444,15 @@
               "rankOrder": 16,
               "id": 55,
               "placementView": {
-                "authorId": "politics---politics---politics",
+                "authorId": "oscars---oscars---oscars",
                 "assetId": 54,
-                "folioId": 7,
-                "caption": "Baseline Values",
+                "folioId": 9,
+                "caption": "The Wild Robot - Kris Bowers",
                 "id": 53,
                 "assetView": {
-                  "authorId": "politics---politics---politics",
-                  "mediaType": "jpginternal",
-                  "sourceId": "assets/img/aimspoll/Hedgehog.jpeg",
+                  "authorId": "oscars---oscars---oscars",
+                  "mediaType": "youtube",
+                  "sourceId": "67vbA5ZJdKQ",
                   "id": 54
                 }
               }
