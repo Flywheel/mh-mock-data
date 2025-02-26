@@ -4741,71 +4741,797 @@
     },
     "pitches": [
       {
-        "id": 0,
-        "authorId": "",
-        "folioId": 0,
-        "opens": "1922-01-03T00:00:00.000Z",
-        "closes": "1922-01-04T00:00:00.000Z",
-        "name": "",
-        "description": "",
-        "slateId": 0,
+        "name": "@Politics",
+        "description": "@Politics",
+        "authorId": "politics---politics---politics",
+        "folioId": 26,
+        "opens": "2025-02-26T16:27:45.196Z",
+        "closes": "2025-03-26T15:27:45.196Z",
+        "id": 26,
+        "slateId": 26,
         "slateView": {
-          "id": 0,
-          "pitchId": 0,
-          "authorId": "",
-          "slateMemberViews": [],
-          "isTopSlate": false
+          "pitchId": 26,
+          "authorId": "politics---politics---politics",
+          "isTopSlate": true,
+          "id": 26,
+          "slateMemberViews": [
+            {
+              "placementId": 251,
+              "slateId": 26,
+              "rankOrder": 4,
+              "id": 211,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 252,
+                "folioId": 26,
+                "caption": "NYC Mayor 2025",
+                "id": 251,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "pitch",
+                  "sourceId": "27",
+                  "id": 252
+                }
+              }
+            },
+            {
+              "placementId": 252,
+              "slateId": 26,
+              "rankOrder": 5,
+              "id": 212,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 253,
+                "folioId": 26,
+                "caption": "DNC Chair 2025",
+                "id": 252,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "pitch",
+                  "sourceId": "28",
+                  "id": 253
+                }
+              }
+            },
+            {
+              "placementId": 253,
+              "slateId": 26,
+              "rankOrder": 6,
+              "id": 213,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 254,
+                "folioId": 26,
+                "caption": "AimsPoll Priorities",
+                "id": 253,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "pitch",
+                  "sourceId": "29",
+                  "id": 254
+                }
+              }
+            }
+          ]
         }
       },
       {
-        "id": 0,
-        "authorId": "",
-        "folioId": 0,
-        "opens": "1922-01-03T00:00:00.000Z",
-        "closes": "1922-01-04T00:00:00.000Z",
-        "name": "",
-        "description": "",
-        "slateId": 0,
+        "name": "NYC Mayor 2025",
+        "description": "NYC Mayor 2025",
+        "authorId": "politics---politics---politics",
+        "folioId": 27,
+        "opens": "2025-02-26T16:27:45.219Z",
+        "closes": "2025-03-26T15:27:45.219Z",
+        "id": 27,
+        "slateId": 27,
         "slateView": {
-          "id": 0,
-          "pitchId": 0,
-          "authorId": "",
-          "slateMemberViews": [],
-          "isTopSlate": false
+          "pitchId": 27,
+          "authorId": "politics---politics---politics",
+          "isTopSlate": true,
+          "id": 27,
+          "slateMemberViews": [
+            {
+              "placementId": 213,
+              "slateId": 27,
+              "rankOrder": 1,
+              "id": 214,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 214,
+                "folioId": 27,
+                "caption": "Eric Adams",
+                "id": 213,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 214
+                }
+              }
+            },
+            {
+              "placementId": 214,
+              "slateId": 27,
+              "rankOrder": 2,
+              "id": 215,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 215,
+                "folioId": 27,
+                "caption": "Brad Lander",
+                "id": 214,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 215
+                }
+              }
+            },
+            {
+              "placementId": 215,
+              "slateId": 27,
+              "rankOrder": 3,
+              "id": 216,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 216,
+                "folioId": 27,
+                "caption": "Jessica Ramos",
+                "id": 215,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 216
+                }
+              }
+            },
+            {
+              "placementId": 216,
+              "slateId": 27,
+              "rankOrder": 4,
+              "id": 217,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 217,
+                "folioId": 27,
+                "caption": "Zellnor Myrie",
+                "id": 216,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 217
+                }
+              }
+            },
+            {
+              "placementId": 217,
+              "slateId": 27,
+              "rankOrder": 5,
+              "id": 218,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 218,
+                "folioId": 27,
+                "caption": "Zohran Mamdani",
+                "id": 217,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 218
+                }
+              }
+            },
+            {
+              "placementId": 218,
+              "slateId": 27,
+              "rankOrder": 6,
+              "id": 219,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 219,
+                "folioId": 27,
+                "caption": "Scott Stringer",
+                "id": 218,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 219
+                }
+              }
+            },
+            {
+              "placementId": 219,
+              "slateId": 27,
+              "rankOrder": 7,
+              "id": 220,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 220,
+                "folioId": 27,
+                "caption": "Michael Blake",
+                "id": 219,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 220
+                }
+              }
+            },
+            {
+              "placementId": 220,
+              "slateId": 27,
+              "rankOrder": 8,
+              "id": 221,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 221,
+                "folioId": 27,
+                "caption": "Jim Walden",
+                "id": 220,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 221
+                }
+              }
+            },
+            {
+              "placementId": 221,
+              "slateId": 27,
+              "rankOrder": 9,
+              "id": 222,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 222,
+                "folioId": 27,
+                "caption": "Whitney Tilson",
+                "id": 221,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 222
+                }
+              }
+            }
+          ]
         }
       },
       {
-        "id": 0,
-        "authorId": "",
-        "folioId": 0,
-        "opens": "1922-01-03T00:00:00.000Z",
-        "closes": "1922-01-04T00:00:00.000Z",
-        "name": "",
-        "description": "",
-        "slateId": 0,
+        "name": "DNC Chair 2025",
+        "description": "DNC Chair 2025",
+        "authorId": "politics---politics---politics",
+        "folioId": 28,
+        "opens": "2025-02-26T16:27:45.239Z",
+        "closes": "2025-03-26T15:27:45.239Z",
+        "id": 28,
+        "slateId": 28,
         "slateView": {
-          "id": 0,
-          "pitchId": 0,
-          "authorId": "",
-          "slateMemberViews": [],
-          "isTopSlate": false
+          "pitchId": 28,
+          "authorId": "politics---politics---politics",
+          "isTopSlate": true,
+          "id": 28,
+          "slateMemberViews": [
+            {
+              "placementId": 223,
+              "slateId": 28,
+              "rankOrder": 1,
+              "id": 223,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 224,
+                "folioId": 28,
+                "caption": "Ben Wikler",
+                "id": 223,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "youtube",
+                  "sourceId": "TfBtlvfysjw",
+                  "id": 224
+                }
+              }
+            },
+            {
+              "placementId": 224,
+              "slateId": 28,
+              "rankOrder": 2,
+              "id": 224,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 225,
+                "folioId": 28,
+                "caption": "Faiz Shakir",
+                "id": 224,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "youtube",
+                  "sourceId": "tQEGeA3mJ7A",
+                  "id": 225
+                }
+              }
+            },
+            {
+              "placementId": 225,
+              "slateId": 28,
+              "rankOrder": 3,
+              "id": 225,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 226,
+                "folioId": 28,
+                "caption": "Garlin Gilchrist",
+                "id": 225,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 226
+                }
+              }
+            },
+            {
+              "placementId": 226,
+              "slateId": 28,
+              "rankOrder": 4,
+              "id": 226,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 227,
+                "folioId": 28,
+                "caption": "Jason Paul",
+                "id": 226,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "youtube",
+                  "sourceId": "dRLKV_RrylE",
+                  "id": 227
+                }
+              }
+            },
+            {
+              "placementId": 227,
+              "slateId": 28,
+              "rankOrder": 5,
+              "id": 227,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 228,
+                "folioId": 28,
+                "caption": "Ken Martin",
+                "id": 227,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "youtube",
+                  "sourceId": "meYmLWtCTW4",
+                  "id": 228
+                }
+              }
+            },
+            {
+              "placementId": 228,
+              "slateId": 28,
+              "rankOrder": 6,
+              "id": 228,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 229,
+                "folioId": 28,
+                "caption": "Marianne Williamson",
+                "id": 228,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "youtube",
+                  "sourceId": "apAUfd0Vg1s",
+                  "id": 229
+                }
+              }
+            },
+            {
+              "placementId": 229,
+              "slateId": 28,
+              "rankOrder": 7,
+              "id": 229,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 230,
+                "folioId": 28,
+                "caption": "Martin O’Malley",
+                "id": 229,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "youtube",
+                  "sourceId": "p7l4L4b5c1A",
+                  "id": 230
+                }
+              }
+            },
+            {
+              "placementId": 230,
+              "slateId": 28,
+              "rankOrder": 8,
+              "id": 230,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 231,
+                "folioId": 28,
+                "caption": "Nate Snyder",
+                "id": 230,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "youtube",
+                  "sourceId": "7bITgW1cX_g",
+                  "id": 231
+                }
+              }
+            },
+            {
+              "placementId": 231,
+              "slateId": 28,
+              "rankOrder": 9,
+              "id": 231,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 232,
+                "folioId": 28,
+                "caption": "Quintessa Hathaway",
+                "id": 231,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 232
+                }
+              }
+            },
+            {
+              "placementId": 232,
+              "slateId": 28,
+              "rankOrder": 10,
+              "id": 232,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 233,
+                "folioId": 28,
+                "caption": "Robert Houton",
+                "id": 232,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "textcaption",
+                  "sourceId": "textcaption",
+                  "id": 233
+                }
+              }
+            }
+          ]
         }
       },
       {
-        "id": 0,
-        "authorId": "",
-        "folioId": 0,
-        "opens": "1922-01-03T00:00:00.000Z",
-        "closes": "1922-01-04T00:00:00.000Z",
-        "name": "",
-        "description": "",
-        "slateId": 0,
+        "name": "AimsPoll Priorities",
+        "description": "AimsPoll Priorities",
+        "authorId": "politics---politics---politics",
+        "folioId": 29,
+        "opens": "2025-02-26T16:27:45.259Z",
+        "closes": "2025-03-26T15:27:45.259Z",
+        "id": 29,
+        "slateId": 29,
         "slateView": {
-          "id": 0,
-          "pitchId": 0,
-          "authorId": "",
-          "slateMemberViews": [],
-          "isTopSlate": false
+          "pitchId": 29,
+          "authorId": "politics---politics---politics",
+          "isTopSlate": true,
+          "id": 29,
+          "slateMemberViews": [
+            {
+              "placementId": 234,
+              "slateId": 29,
+              "rankOrder": 1,
+              "id": 233,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 235,
+                "folioId": 29,
+                "caption": "Border Integrity",
+                "id": 234,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Lion.jpeg",
+                  "id": 235
+                }
+              }
+            },
+            {
+              "placementId": 235,
+              "slateId": 29,
+              "rankOrder": 2,
+              "id": 234,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 236,
+                "folioId": 29,
+                "caption": "Budget Oversight",
+                "id": 235,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Elephant.jpeg",
+                  "id": 236
+                }
+              }
+            },
+            {
+              "placementId": 236,
+              "slateId": 29,
+              "rankOrder": 3,
+              "id": 235,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 237,
+                "folioId": 29,
+                "caption": "Child Protection",
+                "id": 236,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Argali.jpeg",
+                  "id": 237
+                }
+              }
+            },
+            {
+              "placementId": 237,
+              "slateId": 29,
+              "rankOrder": 4,
+              "id": 236,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 238,
+                "folioId": 29,
+                "caption": "Constructive Diplomacy",
+                "id": 237,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Dove.jpeg",
+                  "id": 238
+                }
+              }
+            },
+            {
+              "placementId": 238,
+              "slateId": 29,
+              "rankOrder": 5,
+              "id": 237,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 239,
+                "folioId": 29,
+                "caption": "Crime & Punishment",
+                "id": 238,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Coyote.jpeg",
+                  "id": 239
+                }
+              }
+            },
+            {
+              "placementId": 239,
+              "slateId": 29,
+              "rankOrder": 6,
+              "id": 238,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 240,
+                "folioId": 29,
+                "caption": "Education",
+                "id": 239,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Moose.jpeg",
+                  "id": 240
+                }
+              }
+            },
+            {
+              "placementId": 240,
+              "slateId": 29,
+              "rankOrder": 7,
+              "id": 239,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 241,
+                "folioId": 29,
+                "caption": "Election Reform",
+                "id": 240,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/RoadRunner.jpeg",
+                  "id": 241
+                }
+              }
+            },
+            {
+              "placementId": 241,
+              "slateId": 29,
+              "rankOrder": 8,
+              "id": 240,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 242,
+                "folioId": 29,
+                "caption": "Growth & Prosperity",
+                "id": 241,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Squirrel.jpeg",
+                  "id": 242
+                }
+              }
+            },
+            {
+              "placementId": 242,
+              "slateId": 29,
+              "rankOrder": 9,
+              "id": 241,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 243,
+                "folioId": 29,
+                "caption": "Gun Plague",
+                "id": 242,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Grasshopper.jpeg",
+                  "id": 243
+                }
+              }
+            },
+            {
+              "placementId": 243,
+              "slateId": 29,
+              "rankOrder": 10,
+              "id": 242,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 244,
+                "folioId": 29,
+                "caption": "Health Care",
+                "id": 243,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Donkey.jpeg",
+                  "id": 244
+                }
+              }
+            },
+            {
+              "placementId": 244,
+              "slateId": 29,
+              "rankOrder": 11,
+              "id": 243,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 245,
+                "folioId": 29,
+                "caption": "Military Modernization",
+                "id": 244,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Hawk.jpeg",
+                  "id": 245
+                }
+              }
+            },
+            {
+              "placementId": 245,
+              "slateId": 29,
+              "rankOrder": 12,
+              "id": 244,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 246,
+                "folioId": 29,
+                "caption": "Minimum Wage",
+                "id": 245,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Turtle.jpeg",
+                  "id": 246
+                }
+              }
+            },
+            {
+              "placementId": 246,
+              "slateId": 29,
+              "rankOrder": 13,
+              "id": 245,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 247,
+                "folioId": 29,
+                "caption": "Rule of Law",
+                "id": 246,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Eagle.jpeg",
+                  "id": 247
+                }
+              }
+            },
+            {
+              "placementId": 247,
+              "slateId": 29,
+              "rankOrder": 14,
+              "id": 246,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 248,
+                "folioId": 29,
+                "caption": "Tax Policy",
+                "id": 247,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Rhino.jpeg",
+                  "id": 248
+                }
+              }
+            },
+            {
+              "placementId": 248,
+              "slateId": 29,
+              "rankOrder": 15,
+              "id": 247,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 249,
+                "folioId": 29,
+                "caption": "Baseline Facts",
+                "id": 248,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Fox.jpeg",
+                  "id": 249
+                }
+              }
+            },
+            {
+              "placementId": 249,
+              "slateId": 29,
+              "rankOrder": 16,
+              "id": 248,
+              "placementView": {
+                "authorId": "politics---politics---politics",
+                "assetId": 250,
+                "folioId": 29,
+                "caption": "Baseline Values",
+                "id": 249,
+                "assetView": {
+                  "authorId": "politics---politics---politics",
+                  "mediaType": "jpginternal",
+                  "sourceId": "assets/img/aimspoll/Hedgehog.jpeg",
+                  "id": 250
+                }
+              }
+            }
+          ]
         }
       }
     ]
